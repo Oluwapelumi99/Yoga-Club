@@ -3,12 +3,20 @@
     margin: 0;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+}
+
 
 header {
     background-color: #d65dbd;
 }
 main {
     background-color: #ff6f91;
+    flex: 1 0 auto;
 }
 
 footer {
