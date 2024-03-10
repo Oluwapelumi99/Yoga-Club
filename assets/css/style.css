@@ -17,7 +17,10 @@ body {
 
 
 header {
-    background-color: #d65dbd;
+    background-color: #fff4f9;
+    padding: 0 1rem;
+    position: fixed;
+    width: 100%;
 }
 main {
     background-color: #ff6f91;
