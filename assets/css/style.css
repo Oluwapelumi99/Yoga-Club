@@ -28,10 +28,14 @@ header a {
 }
 header li {
     list-style-type: none;
+    letter-spacing: 4px;
 }
 h1 {
-    color: #3a3a3a;
+    color: #303030;
     text-align: center;
+}
+.Home {
+     border-bottom: 1px solid ;
 }
 main {
     background-color: #ff6f91;
