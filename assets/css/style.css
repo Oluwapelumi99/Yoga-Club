@@ -61,12 +61,21 @@ footer {
         letter-spacing: 5px;
         font-size: 20px; 
     }
+    main {
+        margin-top: 75px;
+    }
     
 }
 
 @media screen and (min-width: 992px){
-    .Home, .Classes, .Contacts:hover {
+    .Home:hover, .Classes:hover, .Contacts:hover {
         border-bottom: 1px solid #303030;
+    }
+    h1 {
+        letter-spacing: 8px;
+    }
+    main {
+        margin-top: 80px;
     }
     
 }
