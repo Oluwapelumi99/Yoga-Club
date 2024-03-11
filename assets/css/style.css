@@ -75,7 +75,15 @@ footer {
         letter-spacing: 8px;
     }
     main {
-        margin-top: 80px;
+        margin-top: 66px;
+    }
+    nav {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+    }
+    h1 {
+        padding-bottom: 0;
+        margin-bottom: 0;
     }
     
 }
