@@ -43,9 +43,13 @@ nav {
     
 }
 main {
-    background-color: #ff6f91;
     flex: 1 0 auto;
     margin-top: 70px;
+}
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-mikhail-nilov-6740748.jpg") no-repeat center center/cover;
 }
 footer {
     background-color: #fff4f9;
@@ -77,9 +81,6 @@ footer {
 }
 
 @media screen and (min-width: 992px){
-    .Home:hover, .Classes:hover, .Register:hover {
-        border-bottom: 1px solid #303030;
-    }
 
     main {
         margin-top: 68px;
