@@ -86,7 +86,30 @@ footer {
     font-size: 15px;
     color: #303030;
 }
+/*Classes styles*/
 
+#Available-classes {
+ text-align: center;
+ padding-top: 10px;
+}
+
+#pilates {
+    padding-left: 5px;
+    margin-left: 5px;
+}
+#yoga {
+    padding-left: 5px;
+    margin-left: 5px;
+}
+
+#zumba {
+    padding-left: 5px;
+    margin-left: 5px;
+}
+h2 ~ div {
+    margin-top: 6px;
+    padding-top: 6px;
+}
 
 /*Media queries*/
 @media screen and (min-width :768px) {
@@ -97,7 +120,18 @@ footer {
     main {
         margin-top: 75px;
     }
-    
+
+    #times {
+        font-size: 25px;
+        padding-top: 5px;
+        margin-top: 5px;
+    }
+    #Available-classes {
+        font-size: 30px;
+    }
+    h1 {
+        text-align: left;
+    }
 }
 
 @media screen and (min-width: 992px){
@@ -108,15 +142,14 @@ footer {
     nav {
         padding-bottom: 5px;
         margin-bottom: 5px;
+        letter-spacing: 40px;
+        font-size: 25px;
     }
     h1 {
         letter-spacing: 8px;
         padding-bottom: 0;
         margin-bottom: 0;
-    }
-    span {
-        letter-spacing: 40px;
-        font-size: 25px;
+        text-align: left;
     }
     
 }
