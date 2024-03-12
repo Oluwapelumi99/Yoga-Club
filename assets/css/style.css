@@ -47,9 +47,22 @@ main {
     margin-top: 70px;
 }
 #main-image {
-    height: 600px;
+    height: 300px;
     width: 100%;
-    background: url("") no-repeat center center/cover;
+    background-color: #ff6f91;
+}
+#h2 {
+    text-align: center;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-size: 20px;
+}
+p {
+text-align: center;
+padding: 4px;
+margin: 4px;
+padding-bottom: 5px;
+margin-bottom: 5px;
 }
 footer {
     background-color: #fff4f9;
