@@ -100,24 +100,21 @@ footer {
     z-index: -1;
 }
 
+#classes div {
+    color: #fff4f9;
+    background-color:  rgba(4, 0, 1, 0.6); 
+}
+#Pilates {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
 #Available-classes {
  text-align: center;
  padding-top: 10px;
 }
 
-#pilates {
-    padding-left: 5px;
-    margin-left: 5px;
-}
-#yoga {
-    padding-left: 5px;
-    margin-left: 5px;
-}
-
-#zumba {
-    padding-left: 5px;
-    margin-left: 5px;
-}
 h2 ~ div {
     margin-top: 6px;
     padding-top: 6px;
@@ -125,7 +122,7 @@ h2 ~ div {
 
 /* Register page styles*/
 
-#register {
+#Register {
     padding: 20px 10% 0 10%;
 
 }
@@ -160,24 +157,28 @@ h2 ~ div {
         letter-spacing: 5px;
         font-size: 20px; 
     }
+    h1 {
+        text-align: left;
+    }
     main {
         margin-top: 80px;
     }
     #main-image {
         height: 700px;
     }
+    /*Classes page media queries*/
 
-    #times {
-        font-size: 25px;
-        padding-top: 5px;
-        margin-top: 5px;
+    #classes {
+        text-align: center;
+        font-size: 30px;
+        padding-top: 10px;
+        margin-top: 10px;
     }
     #Available-classes {
         font-size: 30px;
     }
-    h1 {
-        text-align: left;
-    }
+    
+    /*Register page media queries*/
     #register {
         position: relative;
     }
