@@ -1,6 +1,6 @@
 /*Google font imports*/
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap');
+/*Rules to overwrite the default browser styles*/
 * 
 {   padding: 0;
     margin: 0;
@@ -10,7 +10,7 @@ body
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
-    font-family: 'Inconsolata', sans-serif;
+    font-family: 'Calligraffitti', sans-serif;
 }
 header 
 {   background-color: #fff4f9;
@@ -49,11 +49,16 @@ main
     width: 100%;
     background: url("./images/pexels-alexy-almond-3758057\ \(1\).jpg") no-repeat center center/cover;
 }
+#h2 
+{
+    text-align: center;
+    color: #ff6f91;
+}
 #h3
 {   text-align: center;
     padding-bottom: 4px;
     padding-top: 4px;
-    font-size: 20px;
+    color: #ff6f91;
 }
 p 
 {   text-align: center;
@@ -61,6 +66,7 @@ p
     margin: 2px;
     padding-bottom: 2px;
     margin-bottom: 2px;
+    font-family: 'calligraffitti',sans-serif ;
 }
 
  p .Classes 
