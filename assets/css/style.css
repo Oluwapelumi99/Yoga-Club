@@ -103,6 +103,7 @@ footer {
 #classes div {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
+    height: 526px;
 }
 
 #Available-classes {
@@ -163,11 +164,10 @@ h2 ~ div {
     }
     /*Classes page media queries*/
 
-    #classes {
+    #classes div {
         text-align: center;
         font-size: 30px;
-        padding-top: 25px;
-        margin-top: 25px;
+        height: 851px;
     }
     #Available-classes {
         font-size: 30px;
