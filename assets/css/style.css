@@ -42,7 +42,7 @@ nav {
     margin-bottom: 2px;
     
 }
-main {
+main {background-color: ;
     flex: 1 0 auto;
     margin-top: 70px;
 }
@@ -50,7 +50,7 @@ main {
 #main-image {
     height: 300px;
     width: 100%;
-    background: url("./images/pexels-alexy-almond-3758057.jpg") no-repeat center center/cover;
+    background: url("./images/pexels-alexy-almond-3758057\ \(1\).jpg") no-repeat center center/cover;
 }
 #h2 {
     text-align: center;
