@@ -42,7 +42,7 @@ nav {
     margin-bottom: 2px;
     
 }
-main {background-color: ;
+main {background-color: #ede5eb00;
     flex: 1 0 auto;
     margin-top: 70px;
 }
@@ -88,6 +88,17 @@ footer {
     color: #303030;
 }
 /*Classes page styles*/
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: -1;
+}
 
 #Available-classes {
  text-align: center;
