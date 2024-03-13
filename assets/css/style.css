@@ -104,11 +104,6 @@ footer {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
 }
-#Pilates {
-    padding-left: 50px;
-    padding-right: 50px;
-
-}
 
 #Available-classes {
  text-align: center;
@@ -171,8 +166,8 @@ h2 ~ div {
     #classes {
         text-align: center;
         font-size: 30px;
-        padding-top: 10px;
-        margin-top: 10px;
+        padding-top: 25px;
+        margin-top: 25px;
     }
     #Available-classes {
         font-size: 30px;
