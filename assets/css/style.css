@@ -48,9 +48,9 @@ main {
 }
 /*Main image*/
 #main-image {
-    height: 600px;
+    height: 300px;
     width: 100%;
-    background: url("./images/pexels-alexy-almond-3756499.jpg") no-repeat center center/cover;
+    background: url("./images/pexels-alexy-almond-3758057.jpg") no-repeat center center/cover;
 }
 #h2 {
     text-align: center;
@@ -150,7 +150,10 @@ h2 ~ div {
         font-size: 20px; 
     }
     main {
-        margin-top: 75px;
+        margin-top: 80px;
+    }
+    #main-image {
+        height: 700px;
     }
 
     #times {
@@ -196,6 +199,7 @@ h2 ~ div {
         margin-bottom: 0;
         text-align: left;
     }
+    
     #social-networks i {
         font-size: 22px;
     }
