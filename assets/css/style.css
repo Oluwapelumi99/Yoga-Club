@@ -152,6 +152,11 @@ h2 ~ div {
     background-color: #ff6f91;
     color: #303030;
 }
+/*404 page styles*/
+   #error {
+     text-align: center;
+     font-size: large;
+   }
 /*Applies style when reduced motion is enabled*/
 @media screen and (prefers-reduced-motion: reduce) {
 
