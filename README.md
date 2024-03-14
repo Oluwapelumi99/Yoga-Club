@@ -4,6 +4,7 @@
 Mediat yoga is a ladies only yoga studio located in Derby for women who are interested in relaxation and getting a stronger and happier spirit,mind and body. Mediat yoga offers training and classes that are held by competent instructors.
 Ladies that visit the site will be able to know the classes we run and the times and days and also be able to contact us and register their interest with us.
 
+<img width="1082" alt="Screenshot 2024-03-14 at 12 55 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/77ce5ada-c2ea-4c20-8fb1-bf92b436ff6f">
 
 ## Features
 

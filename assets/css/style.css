@@ -105,8 +105,8 @@ footer {
 #classes div {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
-    height: 525px;
     text-align: center;
+    height: 90vh;
    
 }
 
@@ -201,7 +201,7 @@ h2 ~ div {
     #classes div {
         text-align: center;
         font-size: 30px;
-        height: 890px;
+        height: 90vh;
     }
     #Available-classes {
         font-size: 30px;
@@ -243,4 +243,8 @@ h2 ~ div {
     #social-networks i {
         font-size: 22px;
     }
+    #classes div {
+        text-align: center;
+        font-size: 30px;
+}
 }
