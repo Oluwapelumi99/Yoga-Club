@@ -39,3 +39,10 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>Each form has a text:hover style rule for extra styling and accessibilty.</li>
 <li>The form takes the user's names,(first and last), email-address and phone number and all of these have been set to a required field which means the user cannot move in untill all forms are filled. This is to ensure we get all the information we need to process their registration.</li>
 <li>The form is valuable as it gives users the ability to register online if they are interested, they do not have to put calls through.</li>
+
+
+### . Footer
+
+<li>A footer has been added to the page, this footer consists of clickable links to our social media pages.</li>
+<li>All links have been set to open in a different page so that users will not lose access to my page and can easily return if they want to.</li>
+<li>This is useful to the users as they can connect with us through our social media pages and also view our contents on there.</li>
