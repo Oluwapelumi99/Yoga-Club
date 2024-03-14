@@ -58,8 +58,10 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
 <li>I tested this sit is responsive using the different sizes of devices</li>
 <li>I tested the navigation links are working and by opening them over and over.</li>
-<lil>I also tested the classes llink in the paragraph section of the home page to make sure it directs users to the classes page. 
-This has been dne for added comfort and easy usability of the website.</li>
+<li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate detals</li>
+<li>Email addresses input field have lso been testedd to make sure an "@" is present for the registration to be able to submit.</li>
+<li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
+This has been done for added comfort and easy usability of the website.</li>
 <li>I also tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
 <img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
 <li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
