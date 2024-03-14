@@ -31,6 +31,7 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>This classes page can be assessed by clicking the attributed nav icon in the header.</li>
 <li>A background image has also been added to the page to make it more visually pleasing.</li>
 <li>A background color has been placed on top of the video and set to transparent this is to ensure the video is visible and to provide a contrast between the text and video so the texts on the video can also be visible.</li>
+<li>A media query has been added to the background-video to set it to not play automatically on devices that have been set to not play videos. A screenshot is added above.</li>
 
 
 ### . Register page
@@ -47,3 +48,6 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>All links have been set to open in a different page so that users will not lose access to my page and can easily return if they want to.</li>
 <li>This is useful to the users as they can connect with us through our social media pages and also view our contents on there.</li>
 <li>These footer have been changed to icons using font awesome and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
+
+
+## Testing
