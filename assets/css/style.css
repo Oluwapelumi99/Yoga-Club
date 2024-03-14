@@ -105,10 +105,9 @@ footer {
 #classes div {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
-    height: 526px;
+    height: 528px;
     text-align: center;
-    padding-top: 5px;
-    margin-top: 5px;
+   
 }
 
 #Available-classes {
@@ -155,7 +154,7 @@ h2 ~ div {
 /*404 page styles*/
    #error {
      text-align: center;
-     font-size: large;
+     font-size: 25px;
    }
 /*Applies style when reduced motion is enabled*/
 @media screen and (prefers-reduced-motion: reduce) {
@@ -182,7 +181,7 @@ h2 ~ div {
     #classes div {
         text-align: center;
         font-size: 30px;
-        height: 851px;
+        height: 855px;
     }
     #Available-classes {
         font-size: 30px;
