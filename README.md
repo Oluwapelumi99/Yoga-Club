@@ -60,7 +60,7 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>I tested the navigation links are working and by opening them over and over.</li>
 <lil>I also tested the classes llink in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been dne for added comfort and easy usability of the website.</li>
-<li>I also tested all the HTML pages and the CSS with the V3C validatior which found a bug and the bug was fixed.</li>
+<li>I also tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
 <img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
 <li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
 <img width="1696" alt="Screenshot 2024-03-14 at 16 21 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/ae809c71-ca88-45ae-a15c-504bc1af50c5">
@@ -71,5 +71,12 @@ This has been dne for added comfort and easy usability of the website.</li>
 ### Solved bugs
 
 <img width="1710" alt="Screenshot 2024-03-14 at 16 15 21" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/526fc7a2-6e77-4887-a9a5-790c5d961fb4">
-<li>After testing with the V3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one."</li>
+<li>After testing with the W3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one."</li>
 <li>Removing the other quote fixed the problem.</li>
+
+## Validator testing 
+
+<li>HTML</li>
+     <p>The HTML codes were tested again after fixing the bug and no errors were found after passing through the official W3C validator".</p>
+ <li> CSS</li>
+     <p>There were no bugs to fix when tested through the W3C validator.</p>    
