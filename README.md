@@ -32,3 +32,10 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>A background image has also been added to the page to make it more visually pleasing.</li>
 <li>A background color has been placed on top of the video and set to transparent this is to ensure the video is visible and to provide a contrast between the text and video so the texts on the video can also be visible.</li>
 
+
+### . Register page
+
+<li>A registration page has been created and this has been set to an bright background which makes the registration form visible and easily accessible.</li>
+<li>Each form has a text:hover style rule for extra styling and accessibilty.</li>
+<li>The form takes the user's names,(first and last), email-address and phone number and all of these have been set to a required field which means the user cannot move in untill all forms are filled. This is to ensure we get all the information we need to process their registration.</li>
+<li>The form is valuable as it gives users the ability to register online if they are interested, they do not have to put calls through.</li>
