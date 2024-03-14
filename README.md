@@ -94,12 +94,12 @@ This has been dne for added comfort and easy usability of the website.</li>
 <li>The site was deployed to github pages by following the following steps:</li>
   <p>Go to the settings page.</p>
   <p>On the left-hand sidebar, in the Code and automation section, select Pages.</p>
-  <p>Set the source to deploy from <em>Mian branch</em></p>
-  <p>And <em>Folder</em> is set to / root.</p>
-  <p>Under branch click <em> save</em>/p>
-  <p>Go back to the <em>Code</em> tab. Wait a few minutes for the build to finish and refresh your repo.</p>
-  <p>On the right-hand side, in the <em>Deployments</em> section, click on 'github-pages'.</p>
-  <p>Click <em>View deployment</em> to see the live site. The live link is https://github.com/Oluwapelumi99/Yoga-Club.git </p>
+  <p>Set the source to deploy from <strong>Mian branch</strong></p>
+  <p>And <strong>Folder</strong> is set to / root.</p>
+  <p>Under branch click <**em**> save</**em**></p>
+  <p>Go back to the <strong>Code</strong> tab. Wait a few minutes for the build to finish and refresh your repo.</p>
+  <p>On the right-hand side, in the <strong>Deployments</strong> section, click on 'github-pages'.</p>
+  <p>Click <strong>View deployment</strong> to see the live site. The live link is https://github.com/Oluwapelumi99/Yoga-Club.git </p>
 
 
   ## Credits
