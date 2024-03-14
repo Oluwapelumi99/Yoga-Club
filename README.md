@@ -54,3 +54,5 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 
 ## Testing
+<li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
+<li>I tested this sit is responsive using the different sizes of devices</li>

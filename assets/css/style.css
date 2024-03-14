@@ -75,6 +75,9 @@ margin-bottom: 5px;
 
 /*Footer styles*/
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #fff4f9;
 }
 #social-networks {
@@ -106,7 +109,7 @@ footer {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
     text-align: center;
-    height: 90vh;
+    height: 100vh;
    
 }
 
