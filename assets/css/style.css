@@ -105,7 +105,7 @@ footer {
 #classes div {
     color: #fff4f9;
     background-color:  rgba(4, 0, 1, 0.6); 
-    height: 528px;
+    height: 525px;
     text-align: center;
    
 }
@@ -114,6 +114,7 @@ footer {
  text-align: center;
  padding-top: 10px;
 }
+
 
 h2 ~ div {
     margin-top: 6px;
@@ -159,7 +160,7 @@ h2 ~ div {
         /*Makes the square into circle*/
         border-radius: 50%;
         
-        
+        margin-top: 30px;
         max-width: 300px;
         max-height: 300px;
     }    
@@ -169,7 +170,7 @@ h2 ~ div {
         align-items: center;
         justify-content: center;
     }
-    h2 {
+    #thankyou-text {
         text-align: center;
     }
 
@@ -178,10 +179,7 @@ h2 ~ div {
      text-align: center;
      font-size: 25px;
    }
-/*Applies style when reduced motion is enabled*/
-@media screen and (prefers-reduced-motion: reduce) {
 
-}
 /*Media queries of screen sizes bigger than 768px and up*/
 /*Media queries*/
 @media screen and (min-width :768px) {
@@ -193,7 +191,7 @@ h2 ~ div {
         text-align: left;
     }
     main {
-        margin-top: 80px;
+        margin-top: 75px;
     }
     #main-image {
         height: 700px;
@@ -203,12 +201,11 @@ h2 ~ div {
     #classes div {
         text-align: center;
         font-size: 30px;
-        height: 855px;
+        height: 890px;
     }
     #Available-classes {
         font-size: 30px;
     }
-    
     /*Register page media queries*/
     #register {
         position: relative;
