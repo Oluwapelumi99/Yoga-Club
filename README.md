@@ -79,4 +79,16 @@ This has been dne for added comfort and easy usability of the website.</li>
 <li>HTML</li>
      <p>The HTML codes were tested again after fixing the bug and no errors were found after passing through the official W3C validator".</p>
  <li> CSS</li>
-     <p>There were no bugs to fix when tested through the W3C validator.</p>    
+     <p>There were no bugs to fix when tested through the W3C validator.</p>  
+
+  <li>Accessibility</li>
+      <p>I confrimed that the colors and font chosen are easy to read and accessible by running it through lighthose in dev tools.</p> 
+<img width="554" alt="Screenshot 2024-03-14 at 17 39 37" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/59f59a66-7059-4400-b631-4c57713b2d30">
+
+
+## Unfixed bugs 
+<li> There no unfixed bugs</li>
+
+
+##
+  
