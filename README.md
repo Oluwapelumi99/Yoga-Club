@@ -13,7 +13,14 @@ Ladies that visit the site will be able to know the classes we run and the times
   <li>The navigations are styled in icons that are gotten from fontawesome.com. This is done to add extra styling and make the page more attractive for users.</li>
   <li>An arial-label have been added to the fontawesome icons to make them accessible for screen readers</li>
   <li>The color of the nav icons provide a nice contrast against the background color of the header to make it more visible for users.</li>
-<img width="1710" alt="Screenshot 2024-03-14 at 03 27 26" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/eb9a0d0c-fe79-429c-95bf-339434a2370e">
+<img width="1708" alt="Screenshot 2024-03-14 at 04 23 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/6d357e79-d714-4833-8f65-c9b06e671a07">
 
-### .Header
-The header shows the page's logo :Mediat yoga and keeping the same font as the other contents on the page.
+### . Home page
+
+<li>The first thing that can be seen on the home page is a picture of a woman striking yoga poses. This picture has been put in place to give an instant idea of what the website is all about before even going through the content.</li>
+<li>A description has also been given to the image in order to be more accessible for screen readers.</li>
+<li>The home page contains an image and a brief description of the purpose of the website.</li>
+<li>The homepage shows what the website is all about.</li>
+<li>The homepage also contains the services that will be offered to users when they join Mediat yoga</li>
+
+
