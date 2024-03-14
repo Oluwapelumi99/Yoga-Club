@@ -1,209 +1,218 @@
-/*Import for google fonts*/
-
-@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap')
-
+/*Google font imports*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap');
 
 /*Overwrites the default styling added by the browser*/
 * {
-padding : 0;
-margin : 0;
+    padding: 0;
+    margin: 0;
 }
 /*home page styling*/
 body {
-min-height : 100vh;
-display : flex;
-flex-direction : column;
-color : #3a3a3a;
-font-family : 'Calligraffitti', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+    font-family: 'Inconsolata', sans-serif;
 }
 header {
-background-color : #fff4f9;
-padding : 0 1rem;
-position : fixed;
-width : 100%;
+    background-color: #fff4f9;
+    padding: 0 1rem;
+    position: fixed;
+    width: 100%;
 }
 header a {
-text-decoration : none;
-color : inherit;
+    text-decoration: none;
+    color: inherit;
 }
 h1 {
-color : #303030;
-text-align : center;
-margin-bottom : 8px;
-padding-bottom : 8px;
+    color: #303030;
+    text-align: center;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 nav {
-background-color : #fff4f9;
-text-align : right;
-padding-right : 10px;
-margin-right : 10px;
-padding-bottom : 2px;
-margin-bottom : 2px;
+    background-color: #fff4f9;
+    text-align: right;
+    padding-right: 10px;
+    margin-right: 10px;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+    
 }
-main {
-background-color : #ede5eb00;
-flex : 1 0 auto;
-margin-top : 70px;
+main {background-color: #ede5eb00;
+    flex: 1 0 auto;
+    margin-top: 70px;
 }
+#h2,#h3 
+{
+    color: #78192f;
+}
+/*Main image*/
 #main-image {
-height : 300px;
-width : 100%;
-background : url("../images/lady\ striking\ yoga\ poses.jpg") center center /cover no-repeat;
+    height: 300px;
+    width: 100%;
+    background: url("../images/lady\ striking\ yoga\ poses.jpg") no-repeat center center/cover;
 }
 #h2 {
-text-align : center;
-padding-bottom : 4px;
-padding-top : 4px;
+    text-align: center;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-size: 20px;
 }
 p {
-text-align : center;
-padding : 4px;
-margin : 4px;
-padding-bottom : 5px;
-margin-bottom : 5px;
-}
-p .Classes {
-text-decoration : none;
-border-bottom : 1px solid #303030;
-color : #303030;
-}
-/*footer styles*/
-footer {
-background-color : #fff4f9;
-}
-#social-networks {
-text-align : center;
-padding : 20px 0;
-display : flex;
-justify-content : space-evenly;
-list-style-type : none;
-}
-#social-networks i {
-font-size : 15px;
-color : #303030;
-}
-/* Classes page styling*/
-#background-video {
-width : 100vw;
-height : 100vh;
-object-fit : cover;
-position : fixed;
-left : 0;
-right : 0;
-bottom : 0;
-top : 0;
-z-index : -1;
-}
-#classes div {
-color : #fff4f9;
-background-color : rgba(4, 0, 1, 0.6);
-height : 526px;
-font-family: 'Inconsolata', sans-serif;
-}
-#Available-classes {
-text-align : center;
-padding-top : 10px;
-font-family: 'Inconsolata',sans-serif;
-}
-#h2, #h3 {
-    color: #852a3f;
-}
-h3 {
-    text-align: center;
-}
-h2 ~ div {
-margin-top : 6px;
-padding-top : 6px;
-}
-/*Register page styling*/
-#Register {
-    background-image: url(../images/woman-holding-a-yoga-mat.jpg) no-repeat center center/cover;
-    padding : 20px 10% 0 10%;
-    flex-grow: 1;
+text-align: center;
+padding: 4px;
+margin: 4px;
+padding-bottom: 5px;
+margin-bottom: 5px;
 }
 
+ p .Classes {
+    text-decoration: none;
+    border-bottom: 1px solid #303030;
+    color: #303030;
+}
+/*Footer styles*/
+footer {
+    background-color: #fff4f9;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 15px;
+    color: #303030;
+}
+/*Classes page styles*/
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: -1;
+}
+
+#classes div {
+    color: #fff4f9;
+    background-color:  rgba(4, 0, 1, 0.6); 
+    height: 526px;
+}
+
+#Available-classes {
+ text-align: center;
+ padding-top: 10px;
+}
+
+h2 ~ div {
+    margin-top: 6px;
+    padding-top: 6px;
+}
+
+/* Register page styles*/
+
+#Register {
+    padding: 20px 10% 0 10%;
+
+}
 #register-form {
-    background-image: rgba(4, 0, 1, 0.6);
-    padding : 30px;
+    padding: 30px;
 }
 #register-form > h2 {
-    color: #fff4f9;
-margin-bottom : 10px;
-padding-bottom : 10px;
+ margin-bottom: 10px;
+ padding-bottom: 10px;
+
 }
 .text-input {
-width : 100%;
-height : 25px;
-margin : 5px 0 20px 0;
-border : solid 1px;
-border-radius : 2px;
-padding : 0 5px;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 0 5px;
 }
 .confirm {
-margin-top : 20px;
-border-radius : 2px;
-padding : 15px 32px;
-font-size : 15px;
-background-color : #ff6f91;
-color : #303030;
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 15px;
+    background-color: #ff6f91;
+    color: #303030;
 }
 /*Applies style when reduced motion is enabled*/
 @media screen and (prefers-reduced-motion: reduce) {
 
 }
 /*Media queries of screen sizes bigger than 768px and up*/
-@media screen and (min-width: 768px) {
-nav {
-letter-spacing : 5px;
-font-size : 20px;
-}
-h1 {
-text-align : left;
-}
-main {
-margin-top : 80px;
-}
-#main-image {
-height : 700px;
-}
-#classes div {
-text-align : center;
-height : 851px;
-}
-#Available-classes {
-font-size : 30px;
-}
-#register {
-position : relative;
-}
-#register-form {
-max-width : 400px;
-position : absolute;
-left : 100px;
-top : 150px;
-}
-.text-input:hover {
-border-color : #ff6f91;
-}
+/*Media queries*/
+@media screen and (min-width :768px) {
+    nav {
+        letter-spacing: 5px;
+        font-size: 20px; 
+    }
+    h1 {
+        text-align: left;
+    }
+    main {
+        margin-top: 80px;
+    }
+    #main-image {
+        height: 700px;
+    }
+    /*Classes page media queries*/
+
+    #classes div {
+        text-align: center;
+        font-size: 30px;
+        height: 851px;
+    }
+    #Available-classes {
+        font-size: 30px;
+    }
+    
+    /*Register page media queries*/
+    #register {
+        position: relative;
+    }
+    #register-form {
+        max-width: 400px;
+        position: absolute;
+        left: 100px;
+        top: 150px;
+    }
+    .text-input:hover {
+        border-color: #ff6f91;
+    }
+
 }
 /*Media queries of screen sizes bigger than 992px and up*/
-@media screen and (min-width: 992px) {
-main {
-margin-top : 80px;
-}
-nav {
-padding-bottom : 5px;
-margin-bottom : 5px;
-letter-spacing : 40px;
-font-size : 25px;
-}
-h1 {
-letter-spacing : 8px;
-padding-bottom : 0;
-margin-bottom : 0;
-text-align : left;
-}
-#social-networks i {
-font-size : 22px;
-}
+@media screen and (min-width: 992px){
+
+    main {
+        margin-top: 68px;
+    }
+    nav {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        letter-spacing: 40px;
+        font-size: 25px;
+    }
+    h1 {
+        letter-spacing: 8px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        text-align: left;
+    }
+    
+    #social-networks i {
+        font-size: 22px;
+    }
 }
