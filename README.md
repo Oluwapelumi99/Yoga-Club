@@ -4,7 +4,7 @@
 Mediat yoga is a ladies only yoga studio located in Derby for women who are interested in relaxation and getting a stronger and happier spirit,mind and body. Mediat yoga offers training and classes that are held by competent instructors.
 Ladies that visit the site will be able to know the classes we run and the times and days and also be able to contact us and register their interest with us.
 
-<img width="1082" alt="Screenshot 2024-03-14 at 12 55 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/77ce5ada-c2ea-4c20-8fb1-bf92b436ff6f">
+<img width="1249" alt="Screenshot 2024-03-14 at 16 00 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0706b039-37e6-4b01-ac6b-8c78c5fe2c51">
 
 ## Features
 
@@ -51,8 +51,12 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>All links have been set to open in a different page so that users will not lose access to my page and can easily return if they want to.</li>
 <li>This is useful to the users as they can connect with us through our social media pages and also view our contents on there.</li>
 <li>These footer have been changed to icons using font awesome and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
+<li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
 
 ## Testing
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
 <li>I tested this sit is responsive using the different sizes of devices</li>
+<li>I tested the navigation links are working and by opening them over and over.</li>
+<lil>I also tested the classes llink in the paragraph section of the home page to make sure it directs users to the classes page. 
+This has been dne for added comfort and easy usability of the website.</li>

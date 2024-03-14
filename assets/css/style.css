@@ -125,7 +125,6 @@ h2 ~ div {
 }
 
 /* Register page styles*/
-
 #Register {
     padding: 20px 10% 0 10%;
 
@@ -204,7 +203,7 @@ h2 ~ div {
     #classes div {
         text-align: center;
         font-size: 30px;
-        height: 90vh;
+        height: 100vh;
     }
     #Available-classes {
         font-size: 30px;
@@ -242,12 +241,17 @@ h2 ~ div {
         margin-bottom: 0;
         text-align: left;
     }
+    /*Footer styles*/
     
     #social-networks i {
         font-size: 22px;
     }
+    /*Classes styles*/
     #classes div {
         text-align: center;
         font-size: 30px;
+}
+#Available-classes {
+    font-size: 30px;
 }
 }
