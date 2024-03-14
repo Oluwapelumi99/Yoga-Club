@@ -25,3 +25,10 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>The homepage also contains the services that will be offered to users when they join Mediat yoga</li>
 
 
+### . Classes page
+<img width="1710" alt="Screenshot 2024-03-14 at 04 44 01" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/69c399c8-4ebe-4ada-8683-1f586039896a">
+<li>A classes page has been created which states the type yoga classes,the days of the week the studio will be open,the time, the instructors for each day and the location.</li>
+<li>This classes page can be assessed by clicking the attributed nav icon in the header.</li>
+<li>A background image has also been added to the page to make it more visually pleasing.</li>
+<li>A background color has been placed on top of the video and set to transparent this is to ensure the video is visible and to provide a contrast between the text and video so the texts on the video can also be visible.</li>
+
