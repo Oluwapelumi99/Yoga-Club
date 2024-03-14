@@ -34,7 +34,7 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 
 ### . Register page
-
+<img width="1710" alt="Screenshot 2024-03-14 at 04 58 34" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/9c45c95e-7946-4654-b8c6-a64b93c2db6b">
 <li>A registration page has been created and this has been set to an bright background which makes the registration form visible and easily accessible.</li>
 <li>Each form has a text:hover style rule for extra styling and accessibilty.</li>
 <li>The form takes the user's names,(first and last), email-address and phone number and all of these have been set to a required field which means the user cannot move in untill all forms are filled. This is to ensure we get all the information we need to process their registration.</li>
