@@ -1,5 +1,7 @@
 /*Import for google fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&family=Zeyada&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap')
+
 
 /*Overwrites the default styling added by the browser*/
 * {
@@ -12,7 +14,7 @@ min-height : 100vh;
 display : flex;
 flex-direction : column;
 color : #3a3a3a;
-font-family : 'Zeyada', sans-serif;
+font-family : 'Calligraffitti', sans-serif;
 }
 header {
 background-color : #fff4f9;
@@ -145,6 +147,11 @@ font-size : 15px;
 background-color : #ff6f91;
 color : #303030;
 }
+/*Applies style when reduced motion is enabled*/
+@media screen and (prefers-reduced-motion: reduce) {
+
+}
+/*Media queries of screen sizes bigger than 768px and up*/
 @media screen and (min-width: 768px) {
 nav {
 letter-spacing : 5px;
@@ -179,9 +186,10 @@ top : 150px;
 border-color : #ff6f91;
 }
 }
+/*Media queries of screen sizes bigger than 992px and up*/
 @media screen and (min-width: 992px) {
 main {
-margin-top : 68px;
+margin-top : 80px;
 }
 nav {
 padding-bottom : 5px;
