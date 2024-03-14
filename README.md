@@ -90,5 +90,19 @@ This has been dne for added comfort and easy usability of the website.</li>
 <li> There no unfixed bugs</li>
 
 
-##
-  
+## Deployment
+<li>The site was deployed to github pages by following the following steps:</li>
+  <p>Go to the settings page.</p>
+  <p>On the left-hand sidebar, in the Code and automation section, select Pages.</p>
+  <p>Set the source to deploy from <em>Mian branch</em></p>
+  <p>And <em>Folder</em> is set to / root.</p>
+  <p>Under branch click <em> save</em>/p>
+  <p>Go back to the <em>Code</em> tab. Wait a few minutes for the build to finish and refresh your repo.</p>
+  <p>On the right-hand side, in the <em>Deployments</em> section, click on 'github-pages'.</p>
+  <p>Click <em>View deployment</em> to see the live site. The live link is https://github.com/Oluwapelumi99/Yoga-Club.git </p>
+
+
+  ## Credits
+
+  ### Media 
+  <li>The picture in the home page and the backgrung video in the classes page were taken from pexels.com </li>
