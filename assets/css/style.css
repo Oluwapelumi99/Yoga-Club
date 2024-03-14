@@ -1,6 +1,6 @@
 /*Import for google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&family=Zeyada&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap');
 /*Overwrites the default styling added by the browser*/
 * {
 padding : 0;
@@ -12,7 +12,7 @@ min-height : 100vh;
 display : flex;
 flex-direction : column;
 color : #3a3a3a;
-font-family : 'Inconsolata', sans-serif;
+font-family : 'Zeyada', sans-serif;
 }
 header {
 background-color : #fff4f9;
@@ -96,10 +96,15 @@ z-index : -1;
 color : #fff4f9;
 background-color : rgba(4, 0, 1, 0.6);
 height : 526px;
+font-family: 'Inconsolata', sans-serif;
 }
 #Available-classes {
 text-align : center;
 padding-top : 10px;
+font-family: 'Inconsolata',sans-serif;
+}
+#h2, #h3 {
+    color: #852a3f;
 }
 h3 {
     text-align: center;
