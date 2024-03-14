@@ -14,3 +14,4 @@ Ladies that visit the site will be able to know the classes we run and the times
   <li>An arial-label have been added to the fontawesome icons to make them accessible for screen readers</li>
   <li>The color of the nav icons provide a nice contrast against the background color of the header to make it more visible for users.</li>
 </ul>
+Screenshot 2024-03-14 at 03.27.26.png
