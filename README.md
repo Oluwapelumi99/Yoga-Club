@@ -7,8 +7,8 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 
  ## Navigation
- 
-  <li>At the top of the page, the backgroung shows the studio name. MEDIAT YOGA at the left corner that links to the top of the page</li>
+ <img width="1708" alt="Screenshot 2024-03-14 at 04 23 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/99b5f479-d9fe-4b0f-b3da-7322ce6dd0ca">
+ <li>At the top of the page, the backgroung shows the studio name. MEDIAT YOGA at the left corner that links to the top of the page</li>
   <li>The right corner of the page contains navigation links:Home, Classes, Register, that directs you to the different sections on the website.</li>
   <li>Navs have been created tonmake it easier to move from different pages on the website</li>
   <li>The navigations are styled in icons that are gotten from fontawesome.com. This is done to add extra styling and make the page more attractive for users.</li>
