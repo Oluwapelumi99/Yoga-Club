@@ -1,5 +1,6 @@
 /*Import for google fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&family=Zeyada&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lato:wght@300&display=swap');
 /*Overwrites the default styling added by the browser*/
 * {
 padding : 0;
@@ -11,7 +12,7 @@ min-height : 100vh;
 display : flex;
 flex-direction : column;
 color : #3a3a3a;
-font-family : 'Zeyada', sans-serif;
+font-family : 'Inconsolata', sans-serif;
 }
 header {
 background-color : #fff4f9;
@@ -51,7 +52,6 @@ background : url("../images/lady\ striking\ yoga\ poses.jpg") center center /cov
 text-align : center;
 padding-bottom : 4px;
 padding-top : 4px;
-font-size : 20px;
 }
 p {
 text-align : center;
@@ -94,7 +94,7 @@ z-index : -1;
 }
 #classes div {
 color : #fff4f9;
-background-color : rgb(4, 0, 1, 0.6);
+background-color : rgba(4, 0, 1, 0.6);
 height : 526px;
 }
 #Available-classes {
@@ -112,11 +112,15 @@ padding-top : 6px;
 #Register {
     background-image: url(../images/woman-holding-a-yoga-mat.jpg) no-repeat center center/cover;
     padding : 20px 10% 0 10%;
+    flex-grow: 1;
 }
+
 #register-form {
-padding : 30px;
+    background-image: rgba(4, 0, 1, 0.6);
+    padding : 30px;
 }
 #register-form > h2 {
+    color: #fff4f9;
 margin-bottom : 10px;
 padding-bottom : 10px;
 }
@@ -152,7 +156,6 @@ height : 700px;
 }
 #classes div {
 text-align : center;
-font-size : 30px;
 height : 851px;
 }
 #Available-classes {
