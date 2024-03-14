@@ -42,7 +42,8 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 
 ### . Footer
-
+<img width="1710" alt="Screenshot 2024-03-14 at 05 08 27" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/3d1b0a4e-f19d-40b2-a655-7adfbd657164">
 <li>A footer has been added to the page, this footer consists of clickable links to our social media pages.</li>
 <li>All links have been set to open in a different page so that users will not lose access to my page and can easily return if they want to.</li>
 <li>This is useful to the users as they can connect with us through our social media pages and also view our contents on there.</li>
+<li>These footer have been changed to icons using font awesome and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
