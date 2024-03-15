@@ -91,13 +91,14 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>These footer have been changed to icons using font awesome and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
 <li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
-
 ## Testing
+
+## Manual Testing
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
-<li>I tested this sit is responsive using the different sizes of devices</li>
+<li>I tested this site is responsive using the different sizes of devices.</li>
 <li>I tested the navigation links are working and by opening them over and over.</li>
 <li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate detals</li>
-<li>Email addresses input field have lso been testedd to make sure an "@" is present for the registration to be able to submit.</li>
+<li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit.</li>
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website.</li>
 <li>I also tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
