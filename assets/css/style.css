@@ -123,6 +123,10 @@ h2 ~ div {
     margin-top: 6px;
     padding-top: 6px;
 }
+h3 {
+    padding-top: 7px;
+    margin-top: 7px;
+}
 
 /* Register page styles*/
 #Register {
@@ -183,7 +187,7 @@ h2 ~ div {
    }
 
    /*Media queries for devices with reduced motion enabled*/
-@media (prefers-reduced-motion) {
+@media (prefers-reduced-motion: reduce) {
     #classes div {
         background-color: #ff6f91;
         color: #000000;
@@ -215,6 +219,10 @@ h2 ~ div {
     }
     #Available-classes {
         font-size: 30px;
+    }
+    h3 {
+        padding-top: 18px;
+        margin-top: 18px;
     }
     /*Register page media queries*/
     #register {
