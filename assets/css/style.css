@@ -181,10 +181,12 @@ h2 ~ div {
      text-align: center;
      font-size: 25px;
    }
+
+   /*Media queries for devices with reduced motion enabled*/
 @media (prefers-reduced-motion) {
     #classes div {
         background-color: #ff6f91;
-        color: black;
+        color: #000000;
         height: 100vh;
     }
 }
