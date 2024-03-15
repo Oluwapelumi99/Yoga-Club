@@ -121,7 +121,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
 ### Media query
-<li>A prefers-reduced motion have been added to the classes page to enable the background video to stop playing and change to a pink background color on devices that have been set to enable reduced motion. This has been done to improve accessibility and to make the site enoyable for users who do not like unnecessary motion. This query has been tested and a screenshot of what it will look like on this devices have been added below- </li>
+<li>A media query of prefers-reduced-motion have been added to the classes styles to enable the background video on the page to change to a pink background with black texts on it on devices that have been set to enable reduced motion. This has been done to improve accessibility and to make the site enjoyable for users who do not like unnecessary motion. This query has been tested and a screenshot of what it will look like on these devices have been added below- </li>
 <img width="1710" alt="Screenshot 2024-03-15 at 09 15 53" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/08654925-82eb-4c21-8dee-4e0c1ab8dfe6">
 
 
