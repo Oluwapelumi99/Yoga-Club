@@ -48,7 +48,7 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 ### . Thank you page
 <img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0">
-<li>A thank you page was added to the website which can be added after clicking on the registration form.</li>
+<li>A thank you page was added to the website which can be added after clicking on the submit button on the registration form.</li>
 <li>This has been added to the website to make it more interactive and visually pleasing.</li>
 
 
