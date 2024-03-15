@@ -45,6 +45,13 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>The form is valuable as it gives users the ability to register online if they are interested, they do not have to put calls through.</li>
 
 
+
+### . Thank you page
+<img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0">
+<li>A thank you page was added to the website which can be added after clicking on the registration form.</li>
+<li>This has been added to the website to make it more interactive and visually pleasing.</li>
+
+
 ### . Footer
 <img width="1710" alt="Screenshot 2024-03-14 at 05 08 27" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/3d1b0a4e-f19d-40b2-a655-7adfbd657164">
 <li>A footer has been added to the page, this footer consists of clickable links to our social media pages.</li>
