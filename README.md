@@ -165,7 +165,7 @@ This has been done for added comfort and easy usability of the website.</li>
 
 
 ## Unfixed bugs 
-<li> There no unfixed bugs</li>
+<li> There are no unfixed bugs</li>
 
 
 ## Deployment
