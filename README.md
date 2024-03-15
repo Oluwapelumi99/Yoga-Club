@@ -7,7 +7,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <img width="1249" alt="Screenshot 2024-03-14 at 16 00 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0706b039-37e6-4b01-ac6b-8c78c5fe2c51">
 
 ## Table of Contents.
- ### -Design 
+ ### - Design 
   <li>Colour Scheme</li>
   <li>Typography</li>
   <li>imagery</li>
