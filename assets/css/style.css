@@ -9,8 +9,6 @@
 /*home page styling*/
 body {
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
     color: #3a3a3a;
     font-family: 'Inconsolata', sans-serif;
 }
@@ -18,6 +16,7 @@ header {
     background-color: #fff4f9;
     padding: 0 1rem;
     position: fixed;
+    top: 0;
     width: 100%;
 }
 header a {
@@ -47,17 +46,15 @@ main {background-color: #ede5eb00;
 #h2,#h3 
 {   text-align: center;
     color: #78192f;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-size: 20px;
 }
 /*Main image*/
 #main-image {
     height: 300px;
     width: 100%;
     background: url("../images/lady-striking-a-yoga-pose.jpg") no-repeat center center/cover;
-}
-#h2 {
-    padding-bottom: 4px;
-    padding-top: 4px;
-    font-size: 20px;
 }
 p {
 text-align: center;
@@ -118,11 +115,6 @@ footer {
  padding-top: 10px;
 }
 
-
-h2 ~ div {
-    margin-top: 6px;
-    padding-top: 6px;
-}
 h3 {
     padding-top: 7px;
     margin-top: 7px;

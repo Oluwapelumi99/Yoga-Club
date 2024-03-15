@@ -160,8 +160,24 @@ This has been done for added comfort and easy usability of the website.</li>
      <p>There were no bugs to fix when tested through the W3C validator.</p>  
 
   <li>Accessibility</li>
-      <p>I confrimed that the colors and font chosen are easy to read and accessible by running it through lighthose in dev tools.</p> 
+
+  <p>I confrimed that the colors and font chosen are easy to read and accessible by running it through lighthose in dev tools.</p> 
+
+  ###### Home page
+  <img width="1293" alt="Screenshot 2024-03-15 at 17 58 58" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/f54d6186-94e4-4581-b431-8fdfda7745ac">
+
+ 
+ ###### Classes page
 <img width="554" alt="Screenshot 2024-03-14 at 17 39 37" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/59f59a66-7059-4400-b631-4c57713b2d30">
+  
+  ###### Register page
+<img width="1258" alt="Screenshot 2024-03-15 at 17 50 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/c84ae874-6834-4e3b-9964-51e0fc461da9">
+
+###### Thank you page 
+  <img width="1301" alt="Screenshot 2024-03-15 at 17 56 28" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/e17562c3-cabc-43ac-8eca-da32ddf0bfe4">
+
+###### 404 page
+<img width="1293" alt="Screenshot 2024-03-15 at 18 04 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0166b320-d4c9-4514-9daa-cc25b83ae33f">
 
 
 ## Unfixed bugs 
