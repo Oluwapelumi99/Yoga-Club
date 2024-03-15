@@ -7,11 +7,12 @@ Users that visit the site will be able to know the classes we run and the times 
 <img width="1249" alt="Screenshot 2024-03-14 at 16 00 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0706b039-37e6-4b01-ac6b-8c78c5fe2c51">
 
 ## Table of Contents.
- -###Design 
+ ### -Design 
   <li>Colour Scheme</li>
   <li>Typography</li>
   <li>imagery</li>
- -### Features
+
+  ### - Features
   <li>Navigation</li>
   <li> Home page</li>
   <li>Classes page</li>
@@ -19,19 +20,25 @@ Users that visit the site will be able to know the classes we run and the times 
   <li> Thank you page</li>
   <li> 404 page</li>
   <li>Footer</li>
- -### Testing
- -### Manual testing
--### Bugs
+
+ ### Testing
+
+ ### Manual testing
+
+### - Bugs
   <li>Solved bugs</li>
--### Validator testing
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>Accessibility</li>
--### Unfixed bugs
--### Technologies used
--### Deployment
+
+### - Validator testing
+
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Accessibility</li>
+
+### Unfixed bugs
+### Technologies used
+### Deployment
   
--### Credits
+### - Credits
 <li>Media</li>
 <li>Fonts</li>
 <li>Icons</li>
@@ -39,7 +46,7 @@ Users that visit the site will be able to know the classes we run and the times 
 
 ## Design
 
-### Colour Scheme 
+### - Colour Scheme 
  <li>The colors used on the website -#fff4f9: Used for the header and footer background color</li>
   <li>#303030: Used as the text color on the home  page</li>
   <li>#78192f: This has been used as the color of the texts and icons on the header and the footer on all pages, this is a dark color that has been used against a light background to provide contrast and make the content readable</li> 
@@ -47,10 +54,10 @@ Users that visit the site will be able to know the classes we run and the times 
   <li>rgba(4, 0, 1, 0.6): This color is the color of the background image against the video and it has been set to transparent to make the video underneath visible and provide a contrast against the image so it can be seen easily.</li> 
   <li>#ff6f91: This has been set as the background image on the confirm button and also on the text-input:hover color, so when user hovers over the input line it shows to make them see where they are.</li>
 
-### Typography 
+### - Typography 
 <li>The prefered font used is 'Inconsolata' and sans-serif as been added incase the browser does not load the prefered font.</li>
 
-### Imagery 
+### - Imagery 
 <li>Images used all over the pages matches the overall color scheme that has been used to build the page. </li>
 
 
@@ -173,7 +180,7 @@ This has been done for added comfort and easy usability of the website.</li>
   <li>The picture in the home page,picture thank you page and the background video on the classes page were taken from https://www.pexels.com </li>
   
   ### Fonts
-  <li> The fonts on the page have been added from https://www.googlefonts.com</li>
+  <li> The fonts on the page have been added from https://www.fonts.google.com</li>
 
   ### Icons
-  <li>Icons have been added to the page from https://fontawwesome.com</li>
+  <li>Icons have been added to the page from https://fontawesome.com</li>
