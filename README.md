@@ -24,12 +24,17 @@ Users that visit the site will be able to know the classes we run and the times 
 -### Bugs
   <li>Solved bugs</li>
 -### Validator testing
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>Accessibility</li>
 -### Unfixed bugs
 -### Technologies used
 -### Deployment
   
 -### Credits
 <li>Media</li>
+<li>Fonts</li>
+<li>Icons</li>
 
 
 ## Design
@@ -166,5 +171,9 @@ This has been done for added comfort and easy usability of the website.</li>
 
   ### Media 
   <li>The picture in the home page,picture thank you page and the background video on the classes page were taken from https://www.pexels.com </li>
+  
+  ### Fonts
   <li> The fonts on the page have been added from https://www.googlefonts.com</li>
+
+  ### Icons
   <li>Icons have been added to the page from https://fontawwesome.com</li>
