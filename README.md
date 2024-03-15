@@ -51,13 +51,13 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>The prefered font used is 'Inconsolata' and sans-serif as been added incase the browser does not load the prefered font.</li>
 
 ### Imagery 
-<li>Images used all over the pages matcches the overall color scheme that has been used to build the page. </li>
+<li>Images used all over the pages matches the overall color scheme that has been used to build the page. </li>
 
 
 ## Features
 
 
- ## Navigation
+ ### Navigation
  <img width="1708" alt="Screenshot 2024-03-14 at 04 23 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/99b5f479-d9fe-4b0f-b3da-7322ce6dd0ca">
  <li>At the top of the page, the backgroung shows the studio name. MEDIAT YOGA at the left corner that links to the top of the page</li>
   <li>The right corner of the page contains navigation links:Home, Classes, Register, that directs you to the different sections on the website.</li>
