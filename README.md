@@ -120,8 +120,13 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>These footer have been changed to icons using https://www.fontawesome.com and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
 <li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
-## Testing
+### Media query
+<li>A prefers-reduced motion have been added to the classes page to enable the background video to stop playing and change to a pink background color on devices that have been set to enable reduced motion. This has been done to improve accessibility and to make the site enoyable for users who do not like unnecessary motion. This query has been tested and a screenshot of what it will look like on this devices have been added below- </li>
+<img width="1710" alt="Screenshot 2024-03-15 at 09 15 53" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/08654925-82eb-4c21-8dee-4e0c1ab8dfe6">
 
+
+## Testing
+<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
 <li>I tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
 <img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
 <li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
@@ -137,6 +142,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit.</li>
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website.</li>
+<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
 
 ## Bugs
 
