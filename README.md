@@ -6,6 +6,26 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 <img width="1249" alt="Screenshot 2024-03-14 at 16 00 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0706b039-37e6-4b01-ac6b-8c78c5fe2c51">
 
+## Table of Contents.
+ -### Features
+  <li>Navigation</li>
+  <li> Home page</li>
+  <li>Classes page</li>
+  <li> Register page</li>
+  <li> Thank you page</li>
+  <li> 404 page</li>
+  <li>Footer</li>
+ -### Testing
+-### Bugs
+  <li>Solved bugs</li>
+-### Validator testing
+-### Unfixed bugs
+-### Deployment
+  
+-### Credits
+<li>Media</li>
+
+
 ## Features
 
 
@@ -51,6 +71,11 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>A thank you page was added to the website which can be added after clicking on the submit button on the registration form.</li>
 <li>This has been added to the website to make it more interactive and visually pleasing.</li>
 
+
+
+### . 404 page 
+<img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590">
+<li>A 404 page has also been added to the website if users do not type in the right url address. A link has been to the 404 page to direct them page to the home page</li>
 
 ### . Footer
 <img width="1710" alt="Screenshot 2024-03-14 at 05 08 27" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/3d1b0a4e-f19d-40b2-a655-7adfbd657164">
