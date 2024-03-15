@@ -180,7 +180,7 @@ This has been done for added comfort and easy usability of the website.</li>
   <li>The picture in the home page,picture thank you page and the background video on the classes page were taken from https://www.pexels.com </li>
   
   ### Fonts
-  <li> The fonts on the page have been added from https://www.fonts.google.com</li>
+  <li> The fonts on the page have been added from https://fonts.google.com</li>
 
   ### Icons
   <li>Icons have been added to the page from https://fontawesome.com</li>
