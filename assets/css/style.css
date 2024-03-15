@@ -177,6 +177,12 @@ h3 {
      text-align: center;
      font-size: 25px;
    }
+   .hidden {
+    display: none;
+   }
+   #hidden {
+    display: none;
+   }
 
    /*Media queries for devices with reduced motion enabled*/
 @media (prefers-reduced-motion: reduce) {
