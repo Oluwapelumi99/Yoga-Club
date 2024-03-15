@@ -126,12 +126,22 @@ Users that visit the site will be able to know the classes we run and the times 
 
 
 ## Testing
-<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
 <li>I tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
 <img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
 <li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
 <img width="1696" alt="Screenshot 2024-03-14 at 16 21 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/ae809c71-ca88-45ae-a15c-504bc1af50c5">
 <li>Warning detected that there were imports from other sites that could not be checked and this is out of our control so we cannot fix it.</li>
+
+<li>I tested my pages using the https://wave.webaim.org</li>
+<img width="1702" alt="Screenshot 2024-03-15 at 18 31 35" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/500b0594-b640-4eda-831e-9deb4a09947b">
+
+<img width="1710" alt="Screenshot 2024-03-15 at 18 54 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/42f7960e-cf16-4a8e-baba-a64c1d649441">
+
+<img width="1710" alt="Screenshot 2024-03-15 at 18 56 50" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/56d964fa-c53f-4b8b-a293-a7fdaffad537">
+
+<img width="1710" alt="Screenshot 2024-03-15 at 18 59 58" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/32965aa9-dffc-498d-abba-5ed227e893e9">
+
+
 
 
 ## Manual Testing
