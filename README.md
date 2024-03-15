@@ -2,7 +2,7 @@
 # Mediat yoga
 
 Mediat yoga is a ladies only yoga studio located in Derby for women who are interested in relaxation and getting a stronger and happier spirit,mind and body. Mediat yoga offers training and classes that are held by competent instructors.
-Ladies that visit the site will be able to know the classes we run and the times and days and also be able to contact us and register their interest with us.
+Users that visit the site will be able to know the classes we run and the times and days and also be able to contact us through our social media pages and register their interest with us.
 
 <img width="1249" alt="Screenshot 2024-03-14 at 16 00 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0706b039-37e6-4b01-ac6b-8c78c5fe2c51">
 
@@ -30,6 +30,23 @@ Ladies that visit the site will be able to know the classes we run and the times
   
 -### Credits
 <li>Media</li>
+
+
+## Design
+
+### Colour Scheme 
+ <li>The colors used on the website -#fff4f9: Used for the header and footer background color</li>
+  <li>#303030: Used as the text color on the home  page</li>
+  <li>#78192f: This has been used as the color of the texts and icons on the header and the footer on all pages, this is a dark color that has been used against a light background to provide contrast and make the content readable</li> 
+  <li>#ede5eb00: This color has been used for the background-color on the home page.</li>  
+  <li>rgba(4, 0, 1, 0.6): This color is the color of the background image against the video and it has been set to transparent to make the video underneath visible and provide a contrast against the image so it can be seen easily.</li> 
+  <li>#ff6f91: This has been set as the background image on the confirm button and also on the text-input:hover color, so when user hovers over the input line it shows to make them see where they are.</li>
+
+### Typography 
+<li>The prefered font used is 'Inconsolata' and sans-serif as been added incase the browser does not load the prefered font.</li>
+
+### Imagery 
+<li>Images used all over the pages matcches the overall color scheme that has been used to build the page. </li>
 
 
 ## Features
@@ -85,13 +102,20 @@ Ladies that visit the site will be able to know the classes we run and the times
 
 ### . Footer
 <img width="1710" alt="Screenshot 2024-03-14 at 05 08 27" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/3d1b0a4e-f19d-40b2-a655-7adfbd657164">
-<li>A footer has been added to the page, this footer consists of clickable links to our social media pages.</li>
+<li>A footer has been added to the page, this footer consists of clickable links to social media pages.</li>
 <li>All links have been set to open in a different page so that users will not lose access to my page and can easily return if they want to.</li>
 <li>This is useful to the users as they can connect with us through our social media pages and also view our contents on there.</li>
-<li>These footer have been changed to icons using font awesome and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
+<li>These footer have been changed to icons using https://www.fontawesome.com and this has been done to save considerable amount of space and to also make the footer more visually pleasing.</li>
 <li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
 ## Testing
+
+<li>I tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
+<img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
+<li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
+<img width="1696" alt="Screenshot 2024-03-14 at 16 21 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/ae809c71-ca88-45ae-a15c-504bc1af50c5">
+<li>Warning detected that there were imports from other sites that could not be checked and this is out of our control so we cannot fix it.</li>
+
 
 ## Manual Testing
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
@@ -101,11 +125,6 @@ Ladies that visit the site will be able to know the classes we run and the times
 <li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit.</li>
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website.</li>
-<li>I also tested all the HTML pages and the CSS with the W3C validatior which found a bug and the bug was fixed.</li>
-<img width="1708" alt="Screenshot 2024-03-14 at 16 20 29" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a9a6304b-72f1-46ba-977d-dce1a0e65f62">
-<li> Tested the CSS with W3C validator and it was successful but had only one warning.</li>
-<img width="1696" alt="Screenshot 2024-03-14 at 16 21 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/ae809c71-ca88-45ae-a15c-504bc1af50c5">
-<li>Warning detected that there were imports from other sites that could not be checked and this is out of our control so we cannot fix it.</li>
 
 ## Bugs
 
@@ -146,4 +165,6 @@ This has been done for added comfort and easy usability of the website.</li>
   ## Credits
 
   ### Media 
-  <li>The picture in the home page and the backgrung video in the classes page were taken from pexels.com </li>
+  <li>The picture in the home page,picture thank you page and the background video on the classes page were taken from https://www.pexels.com </li>
+  <li> The fonts on the page have been added from https://www.googlefonts.com</li>
+  <li>Icons have been added to the page from https://fontawwesome.com</li>
