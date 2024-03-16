@@ -133,9 +133,15 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>Warning detected that there were imports from other sites that could not be checked and this is out of our control so we cannot fix it.</li>
 
 <li>I tested all pages using the https://wave.webaim.org</li>
-<img width="1710" alt="Screenshot 2024-03-16 at 03 50 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0eb3eb7d-fa48-40e8-a477-fef62937a008">
+ 
+ #### Home page 
+
 <img width="1710" alt="Screenshot 2024-03-16 at 03 50 51" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/22548244-760b-4052-ae24-3c192a858524">
+
+#### Classes page
 <img width="1710" alt="Screenshot 2024-03-16 at 03 51 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/25161fd9-bc7e-4449-b299-5a176c043abe">
+
+<img width="1710" alt="Screenshot 2024-03-16 at 03 50 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0eb3eb7d-fa48-40e8-a477-fef62937a008">
 <img width="1710" alt="Screenshot 2024-03-16 at 03 51 32 1" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/329d4299-ff3c-4d05-a4c3-4ec42b7b0f14">
 <img width="1710" alt="Screenshot 2024-03-16 at 03 52 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/70e5ce15-ffd7-4a72-80c4-80d915420c52">
 
