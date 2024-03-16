@@ -161,8 +161,10 @@ Users that visit the site will be able to know the classes we run and the times 
 <table>
 <tr>
 <th></th>
-<th>When on home page</th>
-<th>when on classes page</th>
+<th>When on home page
+<img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></th>
+<th>when on classes page
+<img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></th>
 <th>When on register page</th>
 <th>When on thank you page</th>
 <th>When on 404 page</th>
