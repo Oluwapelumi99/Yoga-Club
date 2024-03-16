@@ -88,7 +88,7 @@ Users that visit the site will be able to know the classes we run and the times 
 
 
 ###  Classes page
-<img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03">
+<img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
 <li>A classes page has been created which states the type of yoga classes offered,the days of the week the studio will be open,the time, the instructors for each day and the location.</li>
 <li>This classes page can be assessed by clicking the attributed nav icon in the header.</li>
 <li>A background video has also been added to the page to make it more visually pleasing.</li>
