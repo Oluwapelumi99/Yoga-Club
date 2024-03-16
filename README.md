@@ -53,8 +53,8 @@ Users that visit the site will be able to know the classes we run and the times 
   <li>#78192f: This has been used as the color of the texts and icons on the header and the footer on all pages, this is a dark color that has been used against a light background to provide contrast and make the content readable</li> 
   <li>#ede5eb00: This color has been used for the background-color on the home page.</li>  
   <li>rgba(4, 0, 1, 0.6): This color is the color of the background image against the video and it has been set to transparent to make the video underneath visible and provide a contrast against the image so it can be seen easily.</li> 
-  <li>#ff6f91: This has been set as the background image on the confirm button and also on the text-input:hover color, so when user hovers over the input line it shows to make them see where they are.</li>
-
+  <li>#ff6f91: This has been set as the background color on the confirm button and  background on the media query screen for devices that have reduced moion enabled, also on the text-input:hover color, so when user hovers over the input line it shows to make them see where they are.</li>
+  
 ### Typography 
 <li>The prefered font used is 'Inconsolata' and sans-serif as been added incase the browser does not load the prefered font.</li>
 
@@ -73,7 +73,7 @@ Users that visit the site will be able to know the classes we run and the times 
  <li>At the top of the page, the background shows the studio name. MEDIAT YOGA at the left corner that links to the top of the page</li>
   <li>The right corner of the page contains navigation links:Home, Classes, Register, that directs you to the different sections on the website.</li>
   <li>Navs have been created to make it easier to move from different pages on the website</li>
-  <li>The navigations are styled in icons that are gotten from fontawesome.com. This is done to add extra styling and make the page more attractive for users.</li>
+  <li>The navigations are styled in icons that are gotten from https://www.fontawesome.com. This is done to add extra styling and make the page more attractive for users.</li>
   <li>An arial-label have been added to the fontawesome icons to make them accessible for screen readers</li>
   <li>The color of the nav icons provide a nice contrast against the background color of the header to make it more visible for users.</li>
 
@@ -88,33 +88,33 @@ Users that visit the site will be able to know the classes we run and the times 
 
 
 ###  Classes page
-<img width="1710" alt="Screenshot 2024-03-14 at 04 44 01" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/69c399c8-4ebe-4ada-8683-1f586039896a">
-<li>A classes page has been created which states the type yoga classes,the days of the week the studio will be open,the time, the instructors for each day and the location.</li>
+<img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03">
+<li>A classes page has been created which states the type of yoga classes offered,the days of the week the studio will be open,the time, the instructors for each day and the location.</li>
 <li>This classes page can be assessed by clicking the attributed nav icon in the header.</li>
-<li>A background image has also been added to the page to make it more visually pleasing.</li>
+<li>A background video has also been added to the page to make it more visually pleasing.</li>
 <li>A background color has been placed on top of the video and set to transparent this is to ensure the video is visible and to provide a contrast between the text and video so the texts on the video can also be visible.</li>
-<li>A media query has been added to the background-video to set it to not play automatically on devices that have been set to not play videos. A screenshot is added below in the media query section.</li>
+<li>A media query has been added to the background-video to set it to not show on devices that have been set to enable reduced motion. A screenshot is added below in the media query section.</li>
 
 
 ### Register page
 <img width="1710" alt="Screenshot 2024-03-14 at 04 58 34" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/9c45c95e-7946-4654-b8c6-a64b93c2db6b">
-<li>A registration page has been created and this has been set to an bright background which makes the registration form visible and easily accessible.</li>
+<li>A registration page has been created and this has been set to a bright background which makes the registration form visible and easily accessible.</li>
 <li>Each form has a text:hover style rule for extra styling and accessibilty.</li>
-<li>The form takes the user's names,(first and last), email-address and phone number and all of these have been set to a required field which means the user cannot move in untill all forms are filled. This is to ensure we get all the information we need to process their registration.</li>
+<li>The form takes the user's names,(first and last), email-address and phone number and all of these have been set to a required field which means the user cannot move on until all forms are filled. This is to ensure we get all the information we need to process their registration.</li>
 <li>The form is valuable as it gives users the ability to register online if they are interested, they do not have to put calls through.</li>
 
 
 
 ###  Thank you page
 <img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0">
-<li>A thank you page was added to the website which can be added after clicking on the submit button on the registration form.</li>
+<li>A thank you page was added to the website which can be accessed after clicking on the submit button on the registration form.</li>
 <li>This has been added to the website to make it more interactive and visually pleasing.</li>
 
 
 
 ###  404 page 
 <img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590">
-<li>A 404 page has also been added to the website if users do not type in the right url address. A link has been to the 404 page to direct them page to the home page</li>
+<li>A 404 page has also been added to the website if users do not type in the right url address. A link has been provided on the 404 page to direct them back to the home page.</li>
 
 ###  Footer
 <img width="1710" alt="Screenshot 2024-03-14 at 05 08 27" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/3d1b0a4e-f19d-40b2-a655-7adfbd657164">
@@ -125,7 +125,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>Made footer fixed at the bottom of the screen so it does not move while scrolling upwards through the page.</li>
 
 ### Media query
-<li>A media query of prefers-reduced-motion have been added to the classes styles to enable the background video on the page to change to a pink background with black texts on it on devices that have been set to enable reduced motion. This has been done to improve accessibility and to make the site enjoyable for users who do not like unnecessary motion. This query has been tested and a screenshot of what it will look like on these devices have been added below- </li>
+<li>A media query of prefers-reduced-motion have been added to the classes styles to enable the background video on the page to change to a pink background with black texts on it on devices that have been set to enable reduced motion. This has been done to improve accessibility and to make the site enjoyable for users who do not like unnecessary motion on their screen. This query has been tested and a screenshot of what it will look like on these devices have been added below- </li>
 <img width="1710" alt="Screenshot 2024-03-15 at 09 15 53" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/08654925-82eb-4c21-8dee-4e0c1ab8dfe6">
 
 
@@ -155,7 +155,7 @@ Users that visit the site will be able to know the classes we run and the times 
 
 
 ## Manual Testing
-<li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
+<li>I tested that this page works severally using different browsers : Chrome , safari , firefox.</li>
 <li>I tested this site is responsive using the different sizes of devices.</li>
 <li>I tested the navigation links are working by opening them over and over. A table has been added below to confirm that I was taken to the appropriate pages after clicking on the links.</li>
 <table>
@@ -198,14 +198,14 @@ Users that visit the site will be able to know the classes we run and the times 
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
 </tr>
 </table>
-<li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate details. A screenshot to confirm this have been added below</li>
+<li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't fill in the apppropriate details. A screenshot to confirm this have been added below</li>
 <img width="1710" alt="Screenshot 2024-03-16 at 03 38 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/c1df0d12-4666-4d6d-9191-3895c8246fcf">
-<li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit. A screenshot to confirm this have been added below.</li>
+<li>Email addresses input field has also been tested to make sure an "@" is present for the registration to be able to submit. A screenshot to confirm this have been added below.</li>
 <img width="1710" alt="Screenshot 2024-03-16 at 03 39 18" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/977033cc-4310-4dec-98aa-2bf092da2133">
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website. A screenshot to confirm this have been added below.</li>
 <img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion. See screendhot below.</li>
+<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion. See screenshot below.</li>
 <img width="1710" alt="Screenshot 2024-03-15 at 09 15 53" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/08654925-82eb-4c21-8dee-4e0c1ab8dfe6">
 
 ## Bugs
@@ -217,7 +217,7 @@ This has been done for added comfort and easy usability of the website. A screen
 <li>After testing the classes.html with the W3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one." Removing the other quote fixed the problem.</li>
 
 ### 2 <img width="1706" alt="Screenshot 2024-03-15 at 04 31 28" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/52def71f-074e-4b89-a9f9-e185979a68a6">
-<li>After testing the thankyou.html page with the W3C selector it gave a warning ass seen in the picture above.Changing the section element to a div helped fixed this bug.</li>
+<li>After testing the thankyou.html page with the W3C selector it gave a warning as seen in the picture above. Changing the section element to a div element helped fixed this bug.</li>
 
 
 
@@ -257,6 +257,7 @@ This has been done for added comfort and easy usability of the website. A screen
 <li>https://wave.webaim.org</li>
 <li>Lighthouse on google chrome</li>
 <li>Chrome dev tools</li>
+<li>https://code.visualstudio.com</li>
 
 ## Deployment
 <li>The site was deployed to github pages by following the following steps:</li>
@@ -275,17 +276,16 @@ This has been done for added comfort and easy usability of the website. A screen
   ## Credits
 
   ### Media 
-  <li>The picture in the home page,picture thank you page and the background video on the classes page were taken from https://www.pexels.com </li>
+  <li>The picture on the home page,picture on thank you page and the background video on the classes page were all taken from https://www.pexels.com </li>
   
   ### Fonts
   <li> The fonts on the page have been added from https://fonts.google.com</li>
 
   ### Icons
   <li>Icons have been added to the page from https://fontawesome.com</li>
-  <li>Favicon was add from https://icons8.com</li>
+  <li>Favicon was added from https://icons8.com</li>
 
-  ### Content
-  <li>The codes to make the social media links was taken from the Love running project.</li>
+
 
 
 
