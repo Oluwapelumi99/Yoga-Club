@@ -132,12 +132,12 @@ Users that visit the site will be able to know the classes we run and the times 
 <img width="1696" alt="Screenshot 2024-03-14 at 16 21 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/ae809c71-ca88-45ae-a15c-504bc1af50c5">
 <li>Warning detected that there were imports from other sites that could not be checked and this is out of our control so we cannot fix it.</li>
 
-<li>I tested my pages using the https://wave.webaim.org</li>
-<img width="1702" alt="Screenshot 2024-03-15 at 18 31 35" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/500b0594-b640-4eda-831e-9deb4a09947b">
-
-<img width="1710" alt="Screenshot 2024-03-15 at 18 54 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/42f7960e-cf16-4a8e-baba-a64c1d649441">
-
-<img width="1710" alt="Screenshot 2024-03-15 at 18 56 50" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/56d964fa-c53f-4b8b-a293-a7fdaffad537">
+<li>I tested all pages using the https://wave.webaim.org</li>
+<img width="1710" alt="Screenshot 2024-03-16 at 03 50 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0eb3eb7d-fa48-40e8-a477-fef62937a008">
+<img width="1710" alt="Screenshot 2024-03-16 at 03 50 51" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/22548244-760b-4052-ae24-3c192a858524">
+<img width="1710" alt="Screenshot 2024-03-16 at 03 51 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/25161fd9-bc7e-4449-b299-5a176c043abe">
+<img width="1710" alt="Screenshot 2024-03-16 at 03 51 32 1" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/329d4299-ff3c-4d05-a4c3-4ec42b7b0f14">
+<img width="1710" alt="Screenshot 2024-03-16 at 03 52 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/70e5ce15-ffd7-4a72-80c4-80d915420c52">
 
 <img width="1710" alt="Screenshot 2024-03-15 at 18 59 58" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/32965aa9-dffc-498d-abba-5ed227e893e9">
 
@@ -147,7 +147,7 @@ Users that visit the site will be able to know the classes we run and the times 
 ## Manual Testing
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
 <li>I tested this site is responsive using the different sizes of devices.</li>
-<li>I tested the navigation links are working and by opening them over and over. A table has been added below.</li>
+<li>I tested the navigation links are working by opening them over and over. A table has been added below to confirm that I was taken to the appropriate pages after clicking on the links.</li>
 <table>
 <tr>
 <th>HOME LINK</th>
@@ -187,7 +187,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <img width="1710" alt="Screenshot 2024-03-16 at 03 39 18" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/977033cc-4310-4dec-98aa-2bf092da2133">
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website. A screenshot to confirm this have been added below.</li>
-<img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
+<img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
 <li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
 
 ## Bugs
@@ -260,36 +260,3 @@ This has been done for added comfort and easy usability of the website. A screen
 
 
 
-<table>
-<tr>
-<th>HOME LINK</th>
-<th>CLASSES LINK</th>
-<th>REGISTER LINK</th>
-<th>Thank you page</th>
-<th>404 page</th>
-</tr>
-<tr>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
-</tr>
-<tr>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
-</tr>
-<tr>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
-</tr>
-</table>
