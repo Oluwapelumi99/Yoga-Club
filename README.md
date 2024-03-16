@@ -285,6 +285,9 @@ This has been done for added comfort and easy usability of the website. A screen
   <li>Icons have been added to the page from https://fontawesome.com</li>
   <li>Favicon was added from https://icons8.com</li>
 
+ ### Content
+
+ <li>Media query prefers-reduced-motion code gotten from https://developer.mozilla.org</li>
 
 
 
