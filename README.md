@@ -162,7 +162,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <tr>
 <th>HOME LINK</th>
 <th>CLASSES LINK</th>
-<th>REGISTER LINK</th>
+<th>REGISTER pag</th>
 <th>Thank you page</th>
 <th>404 page</th>
 </tr>
