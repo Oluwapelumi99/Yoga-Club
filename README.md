@@ -167,6 +167,7 @@ Users that visit the site will be able to know the classes we run and the times 
 <th>404 page</th>
 </tr>
 <tr>
+<th>Results when home link is clicked</th>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
