@@ -212,6 +212,7 @@ This has been done for added comfort and easy usability of the website. A screen
 
 ### Solved bugs
 
+
  ### 1 <img width="1710" alt="Screenshot 2024-03-14 at 16 15 21" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/526fc7a2-6e77-4887-a9a5-790c5d961fb4">
 <li>After testing the classes.html with the W3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one." Removing the other quote fixed the problem.</li>
 
@@ -251,6 +252,11 @@ This has been done for added comfort and easy usability of the website. A screen
 ## Unfixed bugs 
 <li> There are no unfixed bugs</li>
 
+## Technologies used 
+<li>https://validator.w3.org</li>
+<li>https://wave.webaim.org</li>
+<li>Lighthouse on google chrome</li>
+<li>Chrome dev tools</li>
 
 ## Deployment
 <li>The site was deployed to github pages by following the following steps:</li>
