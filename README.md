@@ -160,35 +160,33 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>I tested the navigation links are working by opening them over and over. A table has been added below to confirm that I was taken to the appropriate pages after clicking on the links.</li>
 <table>
 <tr>
-<th>HOME LINK</th>
-<th>CLASSES LINK</th>
-<th>REGISTER pag</th>
+<th>HOME page</th>
+<th>CLASSES page</th>
+<th>REGISTER page</th>
 <th>Thank you page</th>
 <th>404 page</th>
 </tr>
 <tr>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
 </tr>
 <tr>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6"></td>
 </tr>
+
 <tr>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
-<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-</td>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
-<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
-<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
 </tr>
 </table>
 <li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate details. A screenshot to confirm this have been added below</li>
