@@ -13,6 +13,7 @@ Users that visit the site will be able to know the classes we run and the times 
   <li>imagery</li>
 
   ### Features
+  <li>Favicon</li>
   <li>Navigation</li>
   <li> Home page</li>
   <li>Classes page</li>
@@ -63,6 +64,9 @@ Users that visit the site will be able to know the classes we run and the times 
 
 ## Features
 
+ ### Favicon  
+<img width="315" alt="Screenshot 2024-03-16 at 04 14 56" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/06d8971b-4479-47d2-bf79-39f145dbf864">
+  <li>A favicon has been set to display in the icon bar when the website is viewed on the browser. The favicon is a yoga symbol which matches the purpose of the website. Favicon was gotten from https://icons8.com </li>
 
  ### Navigation
  <img width="1708" alt="Screenshot 2024-03-14 at 04 23 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/99b5f479-d9fe-4b0f-b3da-7322ce6dd0ca">
@@ -135,19 +139,19 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>I tested all pages using the https://wave.webaim.org</li>
  
  #### Home page 
-
 <img width="1710" alt="Screenshot 2024-03-16 at 03 50 51" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/22548244-760b-4052-ae24-3c192a858524">
 
 #### Classes page
 <img width="1710" alt="Screenshot 2024-03-16 at 03 51 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/25161fd9-bc7e-4449-b299-5a176c043abe">
 
-<img width="1710" alt="Screenshot 2024-03-16 at 03 50 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0eb3eb7d-fa48-40e8-a477-fef62937a008">
-<img width="1710" alt="Screenshot 2024-03-16 at 03 51 32 1" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/329d4299-ff3c-4d05-a4c3-4ec42b7b0f14">
+#### Register page
 <img width="1710" alt="Screenshot 2024-03-16 at 03 52 32" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/70e5ce15-ffd7-4a72-80c4-80d915420c52">
 
-<img width="1710" alt="Screenshot 2024-03-15 at 18 59 58" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/32965aa9-dffc-498d-abba-5ed227e893e9">
+#### Thank you page
+<img width="1710" alt="Screenshot 2024-03-16 at 04 01 46" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/452ac444-dd85-4d42-8930-73e096299b6c">
 
-
+#### 404 page
+<img width="1710" alt="Screenshot 2024-03-16 at 03 50 06" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/0eb3eb7d-fa48-40e8-a477-fef62937a008">
 
 
 ## Manual Testing
@@ -251,6 +255,8 @@ This has been done for added comfort and easy usability of the website. A screen
   <p>Go back to the <strong>Code</strong> tab. Wait a few minutes for the build to finish and refresh your repo.</p>
   <p>On the right-hand side, in the <strong>Deployments</strong> section, click on 'github-pages'.</p>
   <p>Click <strong>View deployment</strong> to see the live site. The live link is https://github.com/Oluwapelumi99/Yoga-Club.git </p>
+  <p>You can clone this by copying the URL and opening it on an app called <strong>Codeanywhere</strong></p>
+  <p>You select open an account through <strong>github.</strong> Once the app has opened, you past the url in the field provided after you click on <strong>create new workspace.</strong></p>
 
 
   ## Credits
@@ -264,6 +270,9 @@ This has been done for added comfort and easy usability of the website. A screen
   ### Icons
   <li>Icons have been added to the page from https://fontawesome.com</li>
   <li>Favicon was add from https://icons8.com</li>
+
+  ### Content
+  <li>The codes to make the social media links was taken from the Love running project.</li>
 
 
 
