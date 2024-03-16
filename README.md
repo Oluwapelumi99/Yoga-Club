@@ -188,7 +188,8 @@ Users that visit the site will be able to know the classes we run and the times 
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
 This has been done for added comfort and easy usability of the website. A screenshot to confirm this have been added below.</li>
 <img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
-<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
+<li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion. See screendhot below.</li>
+<img width="1710" alt="Screenshot 2024-03-15 at 09 15 53" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/08654925-82eb-4c21-8dee-4e0c1ab8dfe6">
 
 ## Bugs
 
