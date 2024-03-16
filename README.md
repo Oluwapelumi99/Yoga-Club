@@ -158,9 +158,13 @@ This has been done for added comfort and easy usability of the website.</li>
 
 ### Solved bugs
 
-<img width="1710" alt="Screenshot 2024-03-14 at 16 15 21" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/526fc7a2-6e77-4887-a9a5-790c5d961fb4">
-<li>After testing with the W3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one."</li>
+ ### 1 <img width="1710" alt="Screenshot 2024-03-14 at 16 15 21" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/526fc7a2-6e77-4887-a9a5-790c5d961fb4">
+<li>After testing the classes.html with the W3C selector, it showed that I have added another quote which made it 2 quotes and came up as an error when there should have only been one."</li>
 <li>Removing the other quote fixed the problem.</li>
+
+### 2 <img width="1706" alt="Screenshot 2024-03-15 at 04 31 28" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/52def71f-074e-4b89-a9f9-e185979a68a6">
+
+
 
 ## Validator testing 
 
