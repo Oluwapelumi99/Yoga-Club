@@ -220,7 +220,15 @@ This has been done for added comfort and easy usability of the website.</li>
 
   ### Icons
   <li>Icons have been added to the page from https://fontawesome.com</li>
+  <li>Favicon was add from https://icons8.com</li>
+
 
 
 <table>
-<th>gg</table>
+<tr>
+<th>HOME LINK</th>
+<th>CLASSES LINK</th>
+<th>REGISTER LINK</th>
+</tr>
+<tr>
+</tr>
