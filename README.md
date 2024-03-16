@@ -147,11 +147,47 @@ Users that visit the site will be able to know the classes we run and the times 
 ## Manual Testing
 <li>I tested this page works severally using different browsers : Chrome , safari , firefox.</li>
 <li>I tested this site is responsive using the different sizes of devices.</li>
-<li>I tested the navigation links are working and by opening them over and over.</li>
-<li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate detals</li>
-<li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit.</li>
+<li>I tested the navigation links are working and by opening them over and over. A table has been added below.</li>
+<table>
+<tr>
+<th>HOME LINK</th>
+<th>CLASSES LINK</th>
+<th>REGISTER LINK</th>
+<th>Thank you page</th>
+<th>404 page</th>
+</tr>
+<tr>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
+</td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
+<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+</tr>
+<tr>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
+</td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
+<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+</tr>
+<tr>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 19" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/a8f55ee8-250a-4b50-b7ed-7f716f4f33c6">
+</td>
+<td><img width="1710" alt="Screenshot 2024-03-16 at 03 22 40" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/14c394e4-87f1-4866-941a-5e32e8900eb0"></td>
+<td><img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
+<td><img width="1707" alt="Screenshot 2024-03-15 at 02 51 55" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/40e65217-5b26-41a1-9070-3c66013f2590"></td>
+</tr>
+</table>
+<li>Registration forms have been tested to make sure the input fields works and users will not be able to move forward if they don't feel in the apppropriate details. A screenshot to confirm this have been added below</li>
+<img width="1710" alt="Screenshot 2024-03-16 at 03 38 47" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/c1df0d12-4666-4d6d-9191-3895c8246fcf">
+<li>Email addresses input field have lso been tested to make sure an "@" is present for the registration to be able to submit. A screenshot to confirm this have been added below.</li>
+<img width="1710" alt="Screenshot 2024-03-16 at 03 39 18" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/977033cc-4310-4dec-98aa-2bf092da2133">
 <li>I also tested the classes link in the paragraph section of the home page to make sure it directs users to the classes page. 
-This has been done for added comfort and easy usability of the website.</li>
+This has been done for added comfort and easy usability of the website. A screenshot to confirm this have been added below.</li>
+<img width="1710" alt="Screenshot 2024-03-14 at 13 59 17" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/df0a4883-dd19-4ec1-b1b5-87da075dd6e0"></td>
 <li>I tested that the media query for prefers-reduced-motion on the classes page works well by setting my device to enable reduced motion.</li>
 
 ## Bugs
@@ -229,6 +265,8 @@ This has been done for added comfort and easy usability of the website.</li>
 <th>HOME LINK</th>
 <th>CLASSES LINK</th>
 <th>REGISTER LINK</th>
+<th>Thank you page</th>
+<th>404 page</th>
 </tr>
 <tr>
 <td><img width="1710" alt="Screenshot 2024-03-16 at 03 21 59" src="https://github.com/Oluwapelumi99/Yoga-Club/assets/156908824/dafdc2aa-5c6a-4968-a8eb-8e6017ca0f03"></td>
